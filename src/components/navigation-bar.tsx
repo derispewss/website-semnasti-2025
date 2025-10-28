@@ -19,7 +19,7 @@ const NavigationBar = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#0a0e27]/80 backdrop-blur-md border-b border-white/10">
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-3 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3">
-            <div className="relative w-10 h-10 md:w-12 md:h-12">
+            <div className="relative w-10 h-10 md:w-15 md:h-15">
                 <Image
                     src={brainLogo}
                     alt="Semnasti Logo"
@@ -27,7 +27,7 @@ const NavigationBar = () => {
                     className="object-contain"
                 />
             </div>
-            <span className="text-sm md:text-base font-bold hidden sm:block font-stormfaze text-gradient-gray">
+            <span className="text-sm md:text-xl font-bold hidden sm:block font-stormfaze text-gradient-gray">
                 SEMNASTI 2025
             </span>
         </Link>

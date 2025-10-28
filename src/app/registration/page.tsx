@@ -5,7 +5,7 @@ export const metadata = {
 
 export default function RegistrationPage() {
   const url = 'https://tally.so/r/wkVgre';
-  const title = 'SEMNASTI 2025 #EARLYBIRD';
+  const title = 'SEMNASTI 2025';
   return (
     <main className="fixed inset-0 z-0">
       <iframe
