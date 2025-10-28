@@ -11,7 +11,7 @@ export default function GallerySection() {
   return (
     <section className="relative z-10 scroll-mt-24 px-6 py-16 md:py-20 lg:py-24">
       <div className="max-w-7xl mx-auto w-full">
-        <h2 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center mb-6 md:mb-10 font-stormfaze">
+        <h2 className="text-2xl md:text-4xl lg:text-5xl font-extrabold text-center mb-6 md:mb-10 font-akira">
           <span className="text-gradient-gray">GALLERY</span>
         </h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 md:gap-4">

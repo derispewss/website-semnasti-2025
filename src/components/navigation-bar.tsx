@@ -27,7 +27,7 @@ const NavigationBar = () => {
                     className="object-contain"
                 />
             </div>
-            <span className="text-sm md:text-xl font-bold hidden sm:block font-stormfaze text-gradient-gray">
+      <span className="text-sm md:text-xl font-bold hidden sm:block font-stormfaze text-gradient-brand">
                 SEMNASTI 2025
             </span>
         </Link>

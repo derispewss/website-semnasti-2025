@@ -6,12 +6,24 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Akira Expanded Demo';
+    src: url('/font/AkiraExpandedDemo.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
     font-family: 'Inter', 'Poppins', sans-serif;
 }
 
 .title-stormfaze {
     font-family: 'Stormfaze', sans-serif;
+}
+
+.title-akira {
+    font-family: 'Akira Expanded Demo', sans-serif;
 }
 
 .gradient-gray {

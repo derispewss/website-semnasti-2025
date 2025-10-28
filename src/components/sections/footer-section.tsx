@@ -13,7 +13,7 @@ export default function FooterSection() {
               <div className="relative w-12 h-12">
                 <Image src={brainLogo} alt="Semnasti" fill className="object-contain" />
               </div>
-              <span className="font-bold text-xl font-stormfaze">SEMNASTI 2025</span>
+              <span className="font-bold text-xl font-stormfaze text-gradient-brand">SEMNASTI 2025</span>
             </div>
             <p className="text-sm text-white/70 leading-relaxed">
               Smart Living With AI<br />
@@ -35,8 +35,9 @@ export default function FooterSection() {
           <div>
             <h4 className="font-bold mb-4 text-lg">Contact</h4>
             <p className="text-sm text-white/70 leading-relaxed">
-              Email: info@semnasti.com<br />
-              Instagram: @semnasti2025
+              Email: semnasti.hmti.udinus.com<br />
+              Instagram: @semnasti<br />
+              Contact: +62 812-3456-7890
             </p>
           </div>
         </div>

@@ -60,7 +60,7 @@ export default function HeroSection() {
               priority
             />
           </div>
-          <h1 className="relative z-10 px-2 md:px-4 text-2xl sm:text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold font-stormfaze leading-tight tracking-wide text-gradient-gray">
+          <h1 className="relative z-10 px-2 md:px-4 text-2xl sm:text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold font-stormfaze leading-tight tracking-wide text-gradient-brand">
             SEMNASTI 2025
           </h1>
         </div>

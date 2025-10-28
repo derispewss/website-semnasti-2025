@@ -4,7 +4,7 @@ export default function SpeakerSection() {
   return (
     <section id="pembicara" className="relative z-10 scroll-mt-24 px-6 py-16 md:py-20 lg:py-24">
       <div className="max-w-7xl mx-auto w-full">
-        <h2 className="text-3xl md:text-5xl lg:text-6xl font-extrabold text-center mb-8 md:mb-12 font-stormfaze">
+        <h2 className="text-3xl md:text-5xl lg:text-6xl font-extrabold text-center mb-8 md:mb-12 font-akira">
           <span className="text-gradient-gray">SPEAKER</span>
         </h2>
 

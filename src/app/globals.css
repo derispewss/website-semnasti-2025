@@ -63,6 +63,14 @@
     background-clip: text;
   }
 
+  /* Brand gradient for "SEMNASTI 2025" */
+  .text-gradient-brand {
+    background: linear-gradient(180deg, #FFFFFF 0%, #B7B7B7 50%, #8E8E8E 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
   .font-stormfaze {
     font-family: 'Stormfaze', sans-serif;
   }

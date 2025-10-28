@@ -10,6 +10,7 @@ import TicketSection from "@/components/sections/ticket-section";
 import BenefitsSection from "@/components/sections/benefits-section";
 import InformationSection from "@/components/sections/information-section";
 import FooterSection from "@/components/sections/footer-section";
+import PartnersSponsorsStrip from "@/components/sections/partners-sponsors-strip";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <TicketSection />
       <BenefitsSection />
       <InformationSection />
+  <PartnersSponsorsStrip />
       <FooterSection />
     </div>
   );
