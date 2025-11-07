@@ -49,7 +49,7 @@ export default function InformationSection() {
               <FaCalendarAlt className="text-2xl md:text-3xl text-[#17D3FD] flex-shrink-0" />
               <div>
                 <p className="text-xs md:text-sm text-white/70">
-                  Jum'at, 5 - Sabtu, 6 Desember 2025
+                  5 - 6 Desember 2025
                 </p>
               </div>
             </div>
