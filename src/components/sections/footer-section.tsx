@@ -15,7 +15,7 @@ export default function FooterSection() {
                 <Image src={brainLogo} alt="Semnasti" fill className="object-contain" />
               </div>
               <span className="font-bold text-xl font-stormfaze text-gradient-brand leading-none">SEMNASTI</span>
-              <span className="text-white/80 font-medium uppercase text-sm leading-none">x</span>
+              <span className="text-white/80 font-medium uppercase text-sm leading-none font-stormfaze">x</span>
               <div className="flex items-center h-6 md:h-8">
                 <Image
                   src={logoAorus}

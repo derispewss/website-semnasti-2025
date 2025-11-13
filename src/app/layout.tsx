@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SEMNASTI 2025 X AORUS INDONESIA - Smart Living With AI",
-  description: "Seminar Nasional Teknik Informatika 2025 X Aorus Indonesia - Smart Living With AI, Real Tech For Real Life",
+  title: "SEMNASTI X AORUS INDONESIA - Smart Living With AI",
+  description: "Seminar Nasional Teknik Informatika X Aorus Indonesia - Smart Living With AI, Real Tech For Real Life",
   keywords: "Semnasti, Seminar Nasional, Teknik Informatika, UDINUS, AI, Technology, AORUS, Smart Living, Tech Conference, Indonesia",
 };
 

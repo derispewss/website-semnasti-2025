@@ -36,7 +36,7 @@ const NavigationBar = () => {
             <span className="text-sm md:text-xl font-bold font-stormfaze text-gradient-brand leading-none">
               SEMNASTI
             </span>
-            <span className="text-white/80 font-medium uppercase text-sm md:text-base leading-none">
+            <span className="text-white/80 font-medium uppercase text-sm md:text-base leading-none font-stormfaze">
               x
             </span>
             <div className="flex items-center h-6 sm:h-8 md:h-5 lg:h-7">

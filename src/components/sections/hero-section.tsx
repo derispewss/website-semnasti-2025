@@ -70,7 +70,7 @@ export default function HeroSection() {
 
             {/* Collaboration badge: 'x' centered between title and enlarged logo */}
             <div className="flex flex-col items-center">
-              <span className="text-white/80 font-medium uppercase text-lg md:text-xl">
+              <span className="text-white/80 font-medium uppercase text-lg md:text-xl font-stormfaze">
                 x
               </span>
               <div className="h-12 sm:h-16 md:h-20 lg:h-24">
