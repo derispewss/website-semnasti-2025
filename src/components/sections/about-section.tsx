@@ -22,8 +22,8 @@ export default function AboutSection() {
             SEMNASTI mengangkat tema “Smart Living with AI: Real Tech for Real
             Life”, yang menyoroti penerapan nyata AI dalam kehidupan
             sehari-hari. Untuk memperkaya pengalaman peserta, SEMNASTI 2025 juga
-            berkolaborasi dengan AORUS sebagai salah satu brand pendukung —
-            menghadirkan showcase produk dan sesi diskusi tentang penerapan AI
+            berkolaborasi dengan AORUS sebagai salah satu brand pendukung menghadirkan 
+            showcase produk dan sesi diskusi tentang penerapan AI
             pada perangkat nyata. Kolaborasi ini memberi kesempatan bagi peserta
             untuk melihat dan mencoba teknologi mutakhir secara langsung.
           </p>

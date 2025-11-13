@@ -9,8 +9,9 @@ import hmtiLogo from "@/assets/Rectangle.png";
 import Link from "next/link";
 import group2469 from "@/assets/Group 2469.png";
 import logoAorus from "@/assets/logo-aorus.png";
+import logoSemnasti from "@/assets/Asset 12 1.png";
 
-const logoStock = [asiaLogo, akreditasiLogo, dinusLogo, hmtiLogo];
+const logoStock = [asiaLogo, akreditasiLogo, dinusLogo, hmtiLogo, logoSemnasti];
 
 export default function HeroSection() {
   return (
