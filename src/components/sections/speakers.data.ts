@@ -3,7 +3,7 @@ import type { StaticImageData } from 'next/image';
 // Import speaker photos here when available
 import speaker1 from '@/assets/speakers/speaker1.png';
 import speaker2 from '@/assets/speakers/speaker2.png';
-// import moderator1 from '@/assets/speakers/moderator1.png';
+import moderator from '@/assets/speakers/moderator.png'
 
 export type Speaker = {
   id: number;
@@ -30,10 +30,12 @@ export const SPEAKERS: Speaker[] = [
   },
   {
     id: 2,
-    name: 'Coming Soon Moderator',
-    comingSoon: true,
-    title: 'Event Moderator',
+    name: 'Danny Oka Ratmana, M.Kom',
+    comingSoon: false,
+    image: moderator,
+    title: 'Dosen Universitas Dian Nuswantoro',
     isModerator: true,
+    linkedin: "https://www.linkedin.com/in/rdannyoka"
   },
   {
     id: 3,
