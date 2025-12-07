@@ -13,14 +13,14 @@ const tickets = [
     title: "Presale (Single)",
     price: "Rp 50.000",
     desc: "Pra-penjualan setelah Early Bird, stok terbatas.",
-    active: true,
+    active: false,
     soldOut: true,
   },
   {
     title: "Presale (Bundling)",
     price: "Rp 145.000",
     desc: "Paket hemat untuk 3 tiket (bundling).",
-    active: true,
+    active: false,
     soldOut: true,
   },
   {
